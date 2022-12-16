@@ -20,8 +20,33 @@ font-weight: 100;
 
 }
 input[type=text]{
-    width: 40%;
+    width: 30%;
     height: 50px;
     text-align: center;
-    margin-left: 50px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+button{
+    padding: 15px 20px;
+    margin-left: 680px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: #08AEEA;
+    color: #fff;
+    font-size: 20px;
+}
+button:hover{
+    background-color: #EE74E1;
+}
+#container{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+.mapouter{
+    margin: auto;
+    margin-top: 20px;
 }
